@@ -32,6 +32,7 @@
   border-radius: 4px;
   padding: 72px 24px 24px;
   max-width: 408px;
+  height: 582;
   position: relative;
 }
 
@@ -197,6 +198,10 @@
 
 .default-checkbox:focus-visible + .form-label > .custom-checkbox {
   outline: 2px solid #8e8f99;
+}
+
+.privacy-policy {
+  margin-bottom: 24px;
 }
 
 .privacy-policy-link {
